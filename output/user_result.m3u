@@ -1,9 +1,15 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-11-19 18:15:57" tvg-logo="https://live.fanmingming.com/tv/2024-11-19 18:15:57.png" group-title="更新时间",2024-11-19 18:15:57
+#EXTINF:-1 tvg-name="2024-11-20 06:25:19" tvg-logo="https://live.fanmingming.com/tv/2024-11-20 06:25:19.png" group-title="更新时间",2024-11-20 06:25:19
 url
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="🈳无结果频道",汕头综合
-url
-#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="🈳无结果频道",汕头经济
-url
-#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="🈳无结果频道",汕头文旅
-url
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="🏠广东频道",汕头综合
+http://113.102.83.24:4022/udp/239.77.1.130:5146$订阅源|1920x1080
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="🏠广东频道",汕头综合
+http://119.145.76.245:10000/udp/239.77.1.130:5146$订阅源|1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="🏠广东频道",汕头经济
+http://113.102.83.24:4022/udp/239.77.1.131:5146$订阅源|1920x1080
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.com/tv/汕头经济.png" group-title="🏠广东频道",汕头经济
+http://119.145.76.245:10000/udp/239.77.1.131:5146$订阅源|1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="🏠广东频道",汕头文旅
+http://113.102.83.24:4022/udp/239.77.1.132:5146$订阅源|1920x1080
+#EXTINF:-1 tvg-name="汕头文旅" tvg-logo="https://live.fanmingming.com/tv/汕头文旅.png" group-title="🏠广东频道",汕头文旅
+http://119.145.76.245:10000/udp/239.77.1.132:5146$订阅源|1920x1080
